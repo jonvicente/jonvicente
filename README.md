@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonvicente
-- 👀 I’m interested in Epidemiology, Psychiatric, Biostatitics and Data. 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Epidemiology, Psychiatry, Biostatistics and Data Science. 
+- 🌱 I’m currently learning all of 'em above.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... e-mail: jonathan_vicent(at)live(dot)co(dot)uk
 
