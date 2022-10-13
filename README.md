@@ -2,7 +2,7 @@
 - 👀 I’m interested in Epidemiology, Psychiatry, Biostatistics and Data Science. 
 - 🌱 I’m currently learning all of 'em above.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... e-mail: jonathan_vicent(at)live(dot)co(dot)uk
+- 📫 How to reach me ... e-mail: jonathan_vicent@live.co.uk
 
 <!---
 jonvicente/jonvicente is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
