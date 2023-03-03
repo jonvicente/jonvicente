@@ -1,7 +1,7 @@
 Hello
 
 - 👋 Hi, I’m @jonvicente
-- 👀 I’m interested in Epidemiology, Psychiatry, Biostatistics and Data Science. 
+- 👀 I’m interested in Epidemiology, Psychiatry Epidemiology, Biostatistics and Data Science. 
 
 
 <div> 
