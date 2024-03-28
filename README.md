@@ -1,7 +1,7 @@
 Hello
 
 - 👋 Hi, I’m @jonvicente
-- 👀 I’m interested in Environmental and Climate Epidemiology, Mental Health, Biostatistics and Suicidology. 
+- 👀 I’m interested in Mental Health, Suicidology, Environmental and Climate Epidemiology.
 
 
 <div> 
