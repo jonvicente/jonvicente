@@ -26,36 +26,9 @@ I'm **Jonathan Vicente**, a PhD student focused on **Mental Health, Suicidology,
 
 ---
 
-## 📂 Projects & Publications
-
-- [Climate Change & Mental Health Website](https://jonvicente.github.io/cc_health/) – Explore the health impacts of climate change  
-- [CV – English](https://jonvicente.github.io/files/CV_Jonathan_Vicente_en.pdf)  
-- [COVID-19 & Health Workers Mental Health Scoping Review](https://doi.org/10.11606/D.5.2023.tde-08052023-155935)  
-- [Political Process for the Creation of SUS](https://www.academia.edu/41132449/POL%C3%8DTICAS_P%C3%9ABLICAS_PROCESSO_POL%C3%8DTICO_DE_CRIA%C3%87%C3%83O_DO_SISTEMA_%C3%9ANICO_DE_SA%C3%9DE_SUS_COM_BASE_NA_LEI_8_080_90)
-
----
-
-## 🌐 Skills & Tools
-
-- **Data Analysis & Visualization:** R, Excel  
-- **Epidemiology & Biostatistics:** Time series, Case-Time Series, Environmental Exposure Analysis  
-- **Research Communication:** Science communication for diverse audiences  
-- **Climate & Health Modeling:** Exposure-response modeling, vulnerability assessment  
-
----
-
 ## ✨ Fun Fact
 
 I love combining **research and public engagement**, using social media, websites, and interactive visualizations to make science accessible.
-
----
-
-## SEO / Visibility Tips:
-
-- Use **clear headings** like `## About Me`, `## Projects & Publications` to help search engines index your skills and work.  
-- Add **links to websites, papers, and social profiles** (already done) to increase visibility.  
-- Include **keywords** naturally in your bio: *Climate Epidemiology, Mental Health, Suicidology, Extreme Weather, Environmental Health*.  
-- Pin this README on your GitHub profile so it appears in search results.  
 
 ---
 
