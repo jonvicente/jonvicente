@@ -5,7 +5,7 @@ I'm **Jonathan Vicente**, a PhD student focused on **Mental Health, Suicidology,
 ## 🌱 About Me
 
 - 🎓 BMedSci | MSc – Mental Health and Climate Epidemiology  
-- 🔬 PhD student at [University of Bern](https://www.unibe.ch/) & [Oeschger Centre for Climate Change Research](https://www.oeschger.unibe.ch/)  
+- 🔬 PhD student at [Institute of Social and Preventive Medicine](https://ispm.unibe.ch/) & [Oeschger Centre for Climate Change Research](https://www.oeschger.unibe.ch/), at the University of Bern.
 - 🌍 Researching the **impact of climate change on physical and mental health**, including heat stress, extreme weather, and vulnerability in specific populations  
 - 💡 Experienced in **science communication**, translating research for policymakers and the public  
 
