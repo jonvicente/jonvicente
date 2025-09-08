@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm **Jonathan Vicente**, a PhD student focused on **Mental Health, Suicidology, Environmental & Climate Epidemiology**. I research the **psychological consequences of climate-related hazards** in Switzerland and The Gambia and explore how environmental stressors affect mental health globally.
+I'm **Jonathan Vicente**, a PhD student focused on **Mental Health, Suicidology, Environmental & Climate Epidemiology**. I research the **psychological consequences of climate-related hazards** in Switzerland and LMIC and explore how environmental stressors affect mental health globally.
 
 ## 🌱 About Me
 
