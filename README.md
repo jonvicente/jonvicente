@@ -2,16 +2,12 @@
 
 I'm **Jonathan Vicente**, a PhD student focused on **Mental Health, Suicidology, Environmental & Climate Epidemiology**. I research the **psychological consequences of climate-related hazards** in Switzerland and The Gambia and explore how environmental stressors affect mental health globally.
 
----
-
 ## 🌱 About Me
 
 - 🎓 BMedSci | MSc – Mental Health and Climate Epidemiology  
 - 🔬 PhD student at [University of Bern](https://www.unibe.ch/) & [Oeschger Centre for Climate Change Research](https://www.oeschger.unibe.ch/)  
 - 🌍 Researching the **impact of climate change on physical and mental health**, including heat stress, extreme weather, and vulnerability in specific populations  
 - 💡 Experienced in **science communication**, translating research for policymakers and the public  
-
----
 
 ## 🔗 Connect with Me
 
@@ -23,8 +19,6 @@ I'm **Jonathan Vicente**, a PhD student focused on **Mental Health, Suicidology,
   <a href="mailto:jonathanvice@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jonathanvicentt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
----
 
 ## ✨ Fun Fact
 
